@@ -1,27 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 
-
-
-
-h1{
-  font-family: 'Indie Flower', cursive;
-  color:
+h1 {
+  font-family: "Indie Flower", cursive;
+  color: Fuchsia;
 }
 
 body {
   background-color: lightblue;
 }
 
-img{
+img {
   border: 30px groove;
   border-color: pink;
-  border-radius: 80%
+  border-radius: 80%;
 }
 
-
-p{
+p {
   color: purple;
-  font-family: 'Gamja Flower', cursive;
+  font-family: "Gamja Flower", cursive;
 }
-
