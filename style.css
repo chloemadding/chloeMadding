@@ -3,20 +3,13 @@
 
 h1 {
   font-family: "Indie Flower", cursive;
-  color: Fuchsia;
+  color: white;
 }
 
 body {
-  background-color: lightblue;
+  min-height: 100vh;
+  background-image: radial-gradient(, SlateBlue);
 }
 
-img {
-  border: 30px groove;
-  border-color: pink;
-  border-radius: 80%;
-}
 
-p {
-  color: purple;
-  font-family: "Gamja Flower", cursive;
-}
+
