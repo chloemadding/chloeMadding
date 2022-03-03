@@ -7,8 +7,8 @@ h1 {
 }
 
 body {
-  min-height: 100vh;
-  background-image: radial-gradient(, SlateBlue);
+  min-height: 70vh;
+  background-image: radial-gradient(GreenYellow, DeepPink, SlateBlue, DarkSlateBlue);
 }
 
 
